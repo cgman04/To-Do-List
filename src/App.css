@@ -1,0 +1,9 @@
+.items {
+  padding: 10px;
+}
+
+.crossed-out {
+  text-decoration: line-through;
+  padding: 10px;
+}
+
